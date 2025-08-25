@@ -7,7 +7,7 @@ import Icon from "@/components/ui/icon";
 const Index = () => {
   const depositData = {
     clientName: "Сидорова Анастасия Витальевна",
-    depositAmount: 1220960,
+    depositAmount: 120960,
     interestRate: 18.5,
     openDate: "28.04.2024",
     closeDate: "28.08.2025",
